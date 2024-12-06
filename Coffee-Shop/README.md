@@ -88,19 +88,12 @@ $ cd Coffee-Shop/
 #### 6. Final Step
   - Build and run the app on your Android device or emulator.
 
-## Questions?🤔
-
-💬 Hit me up at
-
-<a href="https://www.linkedin.com/in/haroonbsf/"><img src="https://user-images.githubusercontent.com/35039342/55471530-94b34280-5627-11e9-8c0e-6fe86a8406d6.png" width="60"></a>
-- Or, open an issue on this repository!
-
 ## License
 
 ```
 MIT License
 
-Copyright (c) 2024 Haroon Majeed
+Copyright (c) 2024 Le Nguyen Duy Nghia
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
